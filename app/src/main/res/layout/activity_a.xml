@@ -4,8 +4,8 @@
     android:layout_height="match_parent">
 
     <Button
-        android:text="Go to activity A"
-        android:id="@+id/btn_goToActivityA"
+        android:text="Go to activity B"
+        android:id="@+id/btn_goToActivityB"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"/>
 </LinearLayout>
